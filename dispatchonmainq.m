@@ -1,6 +1,7 @@
 // dispatchOnMainQ
 // 
 //
+// IDECodeSnippetCompletionPrefix: dispatchOnMainQ
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 27188E19-291E-4EBF-A9F3-3D653C24A143
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
